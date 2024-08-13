@@ -168,8 +168,8 @@ export const customPropObj = {
     color: 'border-right-color'
   },
   background: {
-    blendMode: "blend-mode-repeat",
-    "blend-mode": "blend-mode-repeat",
+    blendMode: "background-blend-mode",
+    "blend-mode": "background-blend-mode",
     color: "background-color",
   },
   font: {
